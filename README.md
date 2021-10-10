@@ -1,9 +1,9 @@
 ### Hi there! How's it going?!👋
 
-- 🔨 I’m currently working on NodeJs
+- 🔨 I’m currently working on NestJS
 - 🚧 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with NestJs
+- 🤔 I’m looking for help with testing frameworks
 - 📫 How to reach me: eliassilva0045@gmail.com
 - 😄 Pronouns: he,him
 - ⚡ Fun fact: my birthday is the same day as canada day! :canada:
