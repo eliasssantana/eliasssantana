@@ -1,7 +1,7 @@
 ### Hi there! How's it going?!👋
 
-- 🔨 I’m currently working on NestJS
-- 🚧 I’m currently learning Typescript
+- 🔨 I’m currently working on Android
+- 🚧 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with testing frameworks
 - 📫 How to reach me: eliassilva0045@gmail.com
