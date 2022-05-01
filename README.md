@@ -4,7 +4,13 @@ Hi 👋 My name is Elias
 Developer | Designer
 --------------------
 
-🔨 I’m currently working on Android 🚧 I’m currently learning Kotlin 👯 I’m looking to collaborate on open source projects 🤔 I’m looking for help with testing frameworks 📫 How to reach me: eliassilva0045@gmail.com 😄 Pronouns: he,him ⚡ Fun fact: my birthday is the same day as canada day! 🇨🇦
+🔨 I’m currently working on Android 
+🚧 I’m currently learning Kotlin 
+👯 I’m looking to collaborate on open source projects 
+🤔 I’m looking for help with testing frameworks 
+📫 How to reach me: eliassilva0045@gmail.com 
+😄 Pronouns: he,him 
+⚡ Fun fact: my birthday is the same day as canada day! 🇨🇦
 
 * 🌍  I'm based in Brazil
 
