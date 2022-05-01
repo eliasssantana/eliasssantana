@@ -4,7 +4,7 @@ Hi 👋 My name is Elias
 Developer | Designer
 --------------------
 
-🔨 I’m currently working on Android 
+* 🔨 I’m currently working on Android 
 🚧 I’m currently learning Kotlin 
 👯 I’m looking to collaborate on open source projects 
 🤔 I’m looking for help with testing frameworks 
