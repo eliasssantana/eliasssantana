@@ -5,7 +5,7 @@ Developer | Technical Product Owner
 --------------------
 
 > * 🔨 I’m currently working on Java 
-> * 🚧 I’m currently learning Kotlin 
+> * 🚧 I’m currently learning Ruby 
 > * 👯 I’m looking to collaborate on open source projects 
 > * 🤔 I’m looking for help with testing frameworks 
 > * 📫 How to reach me: eliassilva0045@gmail.com 
