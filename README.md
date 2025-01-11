@@ -1,7 +1,7 @@
 Hi 👋 My name is Elias
 ======================
 
-Developer | Technical Product Owner
+Software Developer | Data Analyst | Technical Product Owner
 --------------------
 
 > * 🔨 I’m currently working on Java 
