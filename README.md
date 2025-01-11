@@ -36,8 +36,14 @@ src="https://img.shields.io/github/followers/eliasssantana?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/eliasssantana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elias-santana-225310208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/elias-santana-225310208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/eliasssantana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
+
 ### Badges
+
+<p align="left"> <a href="https://www.github.com/eliasssantana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
 
@@ -45,10 +51,12 @@ src="https://img.shields.io/github/followers/eliasssantana?logo=github&style=for
 
 <a href="http://www.github.com/eliasssantana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eliasssantana&stroke=444e59&background=0f172a&ring=f97316&fire=f97316&currStreakNum=444e59&currStreakLabel=f97316&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
-<a href="http://www.github.com/eliasssantana"><img src="https://activity-graph.herokuapp.com/graph?username=eliasssantana&bg_color=0f172a&color=444e59&line=f97316&point=444e59&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/eliasssantana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasssantana&langs_count=10&title_color=f97316&text_color=444e59&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--
+<a href="http://www.github.com/eliasssantana"><img src="https://activity-graph.herokuapp.com/graph?username=eliasssantana&bg_color=0f172a&color=444e59&line=f97316&point=444e59&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
+-->
 
 <b>Top Repositories</b>
+
+<a href="https://github.com/eliasssantana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasssantana&langs_count=10&title_color=f97316&text_color=444e59&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
