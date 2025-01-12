@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/eliasssantana?logo=github&style=for
 
 ### Badges
 
-<p align="left"> <a href="https://www.github.com/eliasssantana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.credly.com/badges/acefc8a1-a0a1-4b1d-8ce5-08f72e9d8d2a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
 
